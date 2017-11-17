@@ -1,1 +1,2 @@
 # lectii
+git add *
