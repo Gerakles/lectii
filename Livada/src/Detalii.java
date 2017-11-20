@@ -10,6 +10,14 @@ public class Detalii {
         return "__________________" +"\n" + "Fructul "+ this.numar+"\n" + "------------------"+"\n" + "Tip: " + this.fructul+"\n" + "Culoare: " + this.culoare +"\n"+ "Marimea: " + this.marimea+"cm" +"\n"+ "Greutate: " + this.greutate+"g";
     }
 
+    public Detalii(String numar, String fructul, String culoare, double marimea, double greutate) {
+        this.numar = numar;
+        this.fructul = fructul;
+        this.culoare = culoare;
+        this.marimea = marimea;
+        this.greutate = greutate;
+    }
+
     public String getNumar() {
         return numar;
     }
