@@ -9,6 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>lesson_12</module>
+        <module>lectia3n2</module>
+        <module>lectia4n1</module>
+        <module>lectia4n1</module>
+        <module>lectia4n2</module>
     </modules>
     <packaging>pom</packaging>
 
