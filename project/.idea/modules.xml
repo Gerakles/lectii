@@ -3,12 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lectia_2TP/Lectia_2TP.iml" filepath="$PROJECT_DIR$/Lectia_2TP/Lectia_2TP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lectia_2TP/Steaua.iml" filepath="$PROJECT_DIR$/Lectia_2TP/Steaua.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia3n1/kn.iml" filepath="$PROJECT_DIR$/lectia3n1/kn.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia3n1/lectia3n1.iml" filepath="$PROJECT_DIR$/lectia3n1/lectia3n1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia3n2/lectia3n2.iml" filepath="$PROJECT_DIR$/lectia3n2/lectia3n2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia4n1/lectia4n1.iml" filepath="$PROJECT_DIR$/lectia4n1/lectia4n1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia4n2/lectia4n2.iml" filepath="$PROJECT_DIR$/lectia4n2/lectia4n2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia5n1/lectia5n1.iml" filepath="$PROJECT_DIR$/lectia5n1/lectia5n1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia5n2/lectia5n2.iml" filepath="$PROJECT_DIR$/lectia5n2/lectia5n2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia5n3/lectia5n3.iml" filepath="$PROJECT_DIR$/lectia5n3/lectia5n3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia6n1/lectia6n1.iml" filepath="$PROJECT_DIR$/lectia6n1/lectia6n1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia6n2/lectia6n2.iml" filepath="$PROJECT_DIR$/lectia6n2/lectia6n2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia6n3/lectia6n3.iml" filepath="$PROJECT_DIR$/lectia6n3/lectia6n3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia7n1/lectia7n1.iml" filepath="$PROJECT_DIR$/lectia7n1/lectia7n1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia7n2/lectia7n2.iml" filepath="$PROJECT_DIR$/lectia7n2/lectia7n2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia7n3/lectia7n3.iml" filepath="$PROJECT_DIR$/lectia7n3/lectia7n3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia8n1/lectia8n1.iml" filepath="$PROJECT_DIR$/lectia8n1/lectia8n1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia8n2/lectia8n2.iml" filepath="$PROJECT_DIR$/lectia8n2/lectia8n2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectia8n3/lectia8n3.iml" filepath="$PROJECT_DIR$/lectia8n3/lectia8n3.iml" />
       <module fileurl="file://$PROJECT_DIR$/lesson_12/lesson_12.iml" filepath="$PROJECT_DIR$/lesson_12/lesson_12.iml" />
       <module fileurl="file://$PROJECT_DIR$/project.iml" filepath="$PROJECT_DIR$/project.iml" />
     </modules>

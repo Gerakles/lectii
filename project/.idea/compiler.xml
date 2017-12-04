@@ -10,9 +10,21 @@
         <module name="lectia3n2" />
         <module name="lectia4n1" />
         <module name="lectia4n2" />
+        <module name="lectia5n1" />
+        <module name="lectia5n2" />
+        <module name="lectia5n3" />
+        <module name="lectia6n1" />
+        <module name="lectia6n2" />
+        <module name="lectia6n3" />
+        <module name="lectia7n1" />
+        <module name="lectia7n2" />
+        <module name="lectia7n3" />
+        <module name="lectia8n1" />
+        <module name="lectia8n2" />
+        <module name="lectia8n3" />
         <module name="lectia_12" />
+        <module name="Lectia_2TP" />
         <module name="lesson_12" />
-        <module name="Steaua" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,7 +32,21 @@
       <module name="lectia3n2" target="1.8" />
       <module name="lectia4n1" target="1.8" />
       <module name="lectia4n2" target="1.8" />
+      <module name="lectia5n1" target="1.8" />
+      <module name="lectia5n2" target="1.8" />
+      <module name="lectia5n3" target="1.8" />
+      <module name="lectia6n1" target="1.8" />
+      <module name="lectia6n2" target="1.8" />
+      <module name="lectia6n3" target="1.8" />
+      <module name="lectia7n1" target="1.8" />
+      <module name="lectia7n2" target="1.8" />
+      <module name="lectia7n3" target="1.8" />
+      <module name="lectia7n4" target="1.8" />
+      <module name="lectia8n1" target="1.8" />
+      <module name="lectia8n2" target="1.8" />
+      <module name="lectia8n3" target="1.8" />
       <module name="lectia_12" target="1.8" />
+      <module name="Lectia_2TP" target="1.5" />
       <module name="lesson_12" target="1.8" />
       <module name="project" target="1.8" />
       <module name="Steaua" target="1.5" />

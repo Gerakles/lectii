@@ -13,6 +13,18 @@
         <module>lectia4n1</module>
         <module>lectia4n1</module>
         <module>lectia4n2</module>
+        <module>lectia5n1</module>
+        <module>lectia5n2</module>
+        <module>lectia5n3</module>
+        <module>lectia6n1</module>
+        <module>lectia6n2</module>
+        <module>lectia6n3</module>
+        <module>lectia7n1</module>
+        <module>lectia7n2</module>
+        <module>lectia7n3</module>
+        <module>lectia8n1</module>
+        <module>lectia8n2</module>
+        <module>lectia8n3</module>
     </modules>
     <packaging>pom</packaging>
 
