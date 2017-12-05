@@ -56,9 +56,13 @@ public class BubbleSort {
         //   int arrListSize = months.size();
 
         months.add("January");
-        months.add("dganuary");
-        months.add("aanuary");
-        months.add("utanuary");
+        months.add("February");
+        months.add("Marth");
+        months.add("Aprill");
+        months.add("May");
+        months.add("June");
+        months.add("Julle");
+        months.add("August");
 
         System.out.println("lunile: "+months);
 

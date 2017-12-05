@@ -25,5 +25,7 @@ public class Main {
             System.out.println("Steau 1  nu egala cu Steau 2");
         }
 
+
+
     }
 }

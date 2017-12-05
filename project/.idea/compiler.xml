@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kn" />
+        <module name="lectia12ntc" />
         <module name="lectia3n2" />
         <module name="lectia4n1" />
         <module name="lectia4n2" />
@@ -29,6 +30,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="kn" target="1.5" />
+      <module name="lectia12ntc" target="1.8" />
       <module name="lectia3n2" target="1.8" />
       <module name="lectia4n1" target="1.8" />
       <module name="lectia4n2" target="1.8" />
