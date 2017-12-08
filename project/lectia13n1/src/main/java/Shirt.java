@@ -1,13 +1,13 @@
-public class Shirt extends Clothing{
+public class Shirt extends Clothing {
     private String fit;
     private final double SHIP_PRICE = 5;
 
-    //public Shirt() {}
-
     public Shirt(String fit) {
-        super(7,"black",'Y',39.5);
-        this.fit=fit;
+        super(2, "description", 'R', 34.3);
+        this.fit = fit;
     }
+
+    public Shirt(){}
 
     public String getFit() {
         return fit;
@@ -16,9 +16,10 @@ public class Shirt extends Clothing{
     public void setFit(String fit) {
         this.fit = fit;
     }
+
     @Override
-    public double calculateShip() {
-        double parentValue = super.calculateShip();
-        return SHIP_PRICE * parentValue;
+    public double calculateShip(){
+        System.out.println("Shirt");
+        return SHIP_PRICE * 3;
     }
 }

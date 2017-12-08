@@ -4,9 +4,7 @@ public class Clothing {
     private String desc = "-description required-";
     private char colorCode = 'U';
     private double price = 0.0;
-    private double SHIP_PRICE = 20;
-
-    //public Clothing(){}
+    private final double SHIP_PRICE = 20;
 
     // Constructor
     public Clothing(int itemID, String desc, char color, double price) {
@@ -16,38 +14,10 @@ public class Clothing {
         this.price = price;
     }
 
-    public int getItemID() {
-        return itemID;
-    }
+    public Clothing(){}
 
-    public void setItemID(int itemID) {
-        this.itemID = itemID;
-    }
-
-    public String getDesc() {
-        return desc;
-    }
-
-    public void setDesc(String desc) {
-        this.desc = desc;
-    }
-
-    public char getColorCode() {
-        return colorCode;
-    }
-
-    public void setColorCode(char colorCode) {
-        this.colorCode = colorCode;
-    }
-
-    public double getPrice() {
-        return price;
-    }
-
-    public void setPrice(double price) {
-        this.price = price;
-    }
-    public double calculateShip() {
+    protected double calculateShip(){
+        System.out.println("Clothing");
         return SHIP_PRICE;
     }
 }
