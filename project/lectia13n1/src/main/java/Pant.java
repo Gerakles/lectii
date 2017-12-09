@@ -1,6 +1,6 @@
 public class Pant extends Clothing{
     private String fit;
-    private final double SHIP_PRICE = 14;
+    private final double SHIP_PRICE = 20;
 
     @Override
     public double calculateShip(){
