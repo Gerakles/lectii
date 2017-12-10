@@ -3,6 +3,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
+//Yakim Bogdan
+
 class Randomm {
         public static List<Integer> cifre;
 
