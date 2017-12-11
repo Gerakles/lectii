@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lectia12ntc" />
         <module name="lectia13n1" />
+        <module name="lectia14n1" />
         <module name="lectia14tc" />
         <module name="lectia3n1" />
         <module name="lectia3n2" />
@@ -34,6 +35,7 @@
       <module name="kn" target="1.5" />
       <module name="lectia12ntc" target="1.8" />
       <module name="lectia13n1" target="1.8" />
+      <module name="lectia14n1" target="1.8" />
       <module name="lectia14tc" target="1.8" />
       <module name="lectia3n1" target="1.5" />
       <module name="lectia3n2" target="1.8" />
