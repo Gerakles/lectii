@@ -29,6 +29,8 @@
         <module>lectia13n1</module>
         <module>lectia14tc</module>
         <module>lectia14n1</module>
+        <module>lectia14tc2</module>
+        <module>lectia14tc2</module>
     </modules>
     <packaging>pom</packaging>
 

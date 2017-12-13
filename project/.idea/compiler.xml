@@ -10,6 +10,7 @@
         <module name="lectia13n1" />
         <module name="lectia14n1" />
         <module name="lectia14tc" />
+        <module name="lectia14tc2" />
         <module name="lectia3n1" />
         <module name="lectia3n2" />
         <module name="lectia4n1" />
@@ -37,6 +38,9 @@
       <module name="lectia13n1" target="1.8" />
       <module name="lectia14n1" target="1.8" />
       <module name="lectia14tc" target="1.8" />
+      <module name="lectia14tc2" target="1.8" />
+      <module name="lectia14tc2_main" target="1.8" />
+      <module name="lectia14tc2_test" target="1.8" />
       <module name="lectia3n1" target="1.5" />
       <module name="lectia3n2" target="1.8" />
       <module name="lectia4n1" target="1.8" />
