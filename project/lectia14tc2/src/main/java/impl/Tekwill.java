@@ -21,7 +21,7 @@ public class Tekwill{
 
             courseOCA.start();
             courseOCA.printLessons();      //prezenta
-            courseOCA.printPresence();
+            courseOCA.printPresence();     //suma absentelor
 //        } catch (ArrayIndexOutOfBoundsException e) {
 //            System.out.println( "Exceptia in virsta" );
 //            System.out.println(e.getMessage());
