@@ -31,7 +31,7 @@ public class PresenceImpl implements Presence {
         for (int i = 0; i < sizeOfProfesor; i++) {
             int staffIndex = (int) (Math.random() * staffList.size());
             presentsStaff.add(staffList.get(staffIndex));
-            staffList.remove(staffIndex);
+            staffList.remove(staffIndex); //ca sa fie in tot deauna 2 profesori
 
         }
 

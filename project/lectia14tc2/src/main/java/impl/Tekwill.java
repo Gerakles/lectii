@@ -20,7 +20,7 @@ public class Tekwill{
             Course courseOCA = new Course( group,  10);
 
             courseOCA.start();
-            //courseOCA.printLessons();
+            courseOCA.printLessons();
             courseOCA.printPresence();
 //        } catch (ArrayIndexOutOfBoundsException e) {
 //            System.out.println( "Exceptia in virsta" );
