@@ -26,12 +26,12 @@ public class PresenceImpl implements Presence {
             if (Math.random() > 0.3) presentsStaff.add(a);
         } );
 
-        int sizeOfProfesor = 2;
-        List <Staff> staffList = group.profesor();
+        int sizeOfProfesor = 2;                                        //numai 2 profesori
+        List <Staff> staffList = group.profesor();                      //creezi staffList
         for (int i = 0; i < sizeOfProfesor; i++) {
-            int staffIndex = (int) (Math.random() * staffList.size());
-            presentsStaff.add(staffList.get(staffIndex));
-            staffList.remove(staffIndex); //ca sa fie in tot deauna 2 profesori
+            int staffIndex = (int) (Math.random() * staffList.size());  //alegi random
+            presentsStaff.add(staffList.get(staffIndex));                //adaugi profesori
+            staffList.remove(staffIndex);                               //ca sa fie in tot deauna 2 profesori
 
         }
 
