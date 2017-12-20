@@ -8,7 +8,12 @@ public class NodeList implements MyList{
     }
 
     @Override
-    public Object add(int Object) {
+    public Object add(int object) {
+        if (root==null) {
+            root = new Node();
+            root.setNext(null);
+            root.setValue(object);
+        }
         return null;
     }
 
