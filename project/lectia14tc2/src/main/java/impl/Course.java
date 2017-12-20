@@ -47,8 +47,7 @@ public class Course {
                     j++;
                 }
             }
-            System.out.println(i);
-            System.out.println("obsenta"+j);
+            System.out.println("prezenta "+i+" obsenta "+j);
         }
     }
 //    public void printPresence() {

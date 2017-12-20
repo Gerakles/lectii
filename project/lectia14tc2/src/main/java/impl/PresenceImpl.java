@@ -30,7 +30,8 @@ public class PresenceImpl implements Presence {
         List <Staff> staffList = group.profesor();
         for (int i = 0; i < sizeOfProfesor; i++) {
             int staffIndex = (int) (Math.random() * staffList.size());
-            presentsStaff.add(group.profesor().get(staffIndex));
+            presentsStaff.add(staffList.get(staffIndex));
+            staffList.remove(staffIndex);
 
         }
 
