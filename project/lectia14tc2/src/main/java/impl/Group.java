@@ -9,7 +9,7 @@ public class Group {
     private List<Staff> allStaff;
 
 
-   public Group(List<Staff> allStaff) {
+    public Group(List<Staff> allStaff) {
         this.allStaff = allStaff;
     }
 
@@ -18,14 +18,18 @@ public class Group {
     }
 
     public List<Staff> students() {
-       return allStaff.stream()
-               .filter(s-> s.getRoleName().equals("Student"))
-               .collect( Collectors.toList());
+        return allStaff.stream()
+                .filter(s-> s.getRoleName().equals("Student"))
+                .collect( Collectors.toList());
     }
 
     public List<Staff> profesor() {
         return allStaff.stream()
                 .filter(s-> s.getRoleName().equals("Profesor"))
                 .collect( Collectors.toList());
+    }
+
+    public List<Staff> getListOfStaff() {
+        return allStaff;
     }
 }

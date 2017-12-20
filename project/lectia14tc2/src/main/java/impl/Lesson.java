@@ -23,7 +23,11 @@ public class Lesson {
         System.out.println();
         for (Staff staff : group.getAllStaff()) {
             if (presence.isPresent(staff))
-            System.out.println(staff);
+                System.out.println(staff);
         }
+    }
+
+    public Presence getPresence() {
+        return presence;
     }
 }

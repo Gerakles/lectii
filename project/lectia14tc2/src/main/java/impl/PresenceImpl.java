@@ -12,7 +12,7 @@ public class PresenceImpl implements Presence {
 
     public PresenceImpl(Group group) {
         this.group = group;
-        presentsStaff = new ArrayList <>();
+        presentsStaff = new ArrayList <Staff>();
     }
 
     @Override
@@ -22,15 +22,25 @@ public class PresenceImpl implements Presence {
 
     @Override
     public void check() {
-        group.students().forEach( s -> {
-            if (Math.random() > 0.3) presentsStaff.add( s );
+        group.students().forEach( a -> {
+            if (Math.random() > 0.3) presentsStaff.add(a);
         } );
 
-    }
-    public void check1() {
-        group.profesor().forEach( s -> {
-            if (Math.random() > 0.5) presentsStaff.add( s );
-        } );
+        int sizeOfProfesor = 2;
+        List <Staff> staffList = group.profesor();
+        for (int i = 0; i < sizeOfProfesor; i++) {
+            int staffIndex = (int) (Math.random() * staffList.size());
+            presentsStaff.add(group.profesor().get(staffIndex));
+
+        }
+
+//        if (Math.random()>0.5) {
+//            presentsStaff.add( group.profesor().get( 0 ) );
+//            presentsStaff.add( group.profesor().get( 1 ) );
+//        } else {
+//            presentsStaff.add( group.profesor().get( 2 ));
+//            presentsStaff.add( group.profesor().get( 3 ));
 
     }
+
 }

@@ -8,6 +8,11 @@ public abstract class Staff extends Person implements Role {
     public Staff(String text) {
         super(text);
     }
+
+    public Staff() {
+
+    }
+
     @Override
     public String toString() {
         StringBuffer sb = new StringBuffer();
@@ -18,7 +23,7 @@ public abstract class Staff extends Person implements Role {
                 .append(", ")
                 .append(getlastName())
                 .append(", ")
-                .append(getage())
+                .append(getage()==1945?"":getage())
                 .append("}");
         return sb.toString();
     }

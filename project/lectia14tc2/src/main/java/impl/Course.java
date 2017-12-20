@@ -27,8 +27,41 @@ public class Course {
     }
 
     public void printLessons() {
+        checkStarted();
         for (Lesson lesson : listofLessons) {
             lesson.print();
+        }
+    }
+
+    public void printPresence() {
+        checkStarted();
+        System.out.println("\nPrintam presenta ");
+        for (Staff presence : group.getAllStaff()) {
+            int i = 0;
+            int j = 0;
+            System.out.println(presence);
+            for (Lesson lessonpressence: listofLessons) {
+                if (lessonpressence.getPresence().isPresent(presence)) {
+                    i++;
+                } else {
+                    j++;
+                }
+            }
+            System.out.println(i);
+            System.out.println("obsenta"+j);
+        }
+    }
+//    public void printPresence() {
+//        System.out.println("presence");
+//        for (Staff it : group.getListOfStaff()) {
+//            long freg = listofLessons.stream().filter(s-> s.getPresence().isPresent(it)).count();
+//            long absenta = NumberofLessons- freg;
+//        }
+//    }
+
+    private void checkStarted() {
+        if (listofLessons == null)  {
+            throw new NotStartedException();
         }
     }
 }

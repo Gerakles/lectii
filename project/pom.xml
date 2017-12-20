@@ -30,7 +30,8 @@
         <module>lectia14tc</module>
         <module>lectia14n1</module>
         <module>lectia14tc2</module>
-        <module>lectia14tc2</module>
+        <module>lectia15n1</module>
+        <module>lectia15tc1</module>
     </modules>
     <packaging>pom</packaging>
 
