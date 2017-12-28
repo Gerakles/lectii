@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03-1/Exercise_03-1.iml" filepath="$PROJECT_DIR$/Exercise_03-1/Exercise_03-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise_03-2/Exercise_03-2.iml" filepath="$PROJECT_DIR$/Exercise_03-2/Exercise_03-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lectia_2TP/Lectia_2TP.iml" filepath="$PROJECT_DIR$/Lectia_2TP/Lectia_2TP.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia12ntc/lectia12ntc.iml" filepath="$PROJECT_DIR$/lectia12ntc/lectia12ntc.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia13n1/lectia13n1.iml" filepath="$PROJECT_DIR$/lectia13n1/lectia13n1.iml" />
@@ -13,8 +15,6 @@
       <module fileurl="file://$PROJECT_DIR$/lectia15n1/lectia15n1.iml" filepath="$PROJECT_DIR$/lectia15n1/lectia15n1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia15tc1/lectia15tc1.iml" filepath="$PROJECT_DIR$/lectia15tc1/lectia15tc1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia15tc2/lectia15tc2.iml" filepath="$PROJECT_DIR$/lectia15tc2/lectia15tc2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lectia3n1/lectia3n1.iml" filepath="$PROJECT_DIR$/lectia3n1/lectia3n1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lectia3n2/lectia3n2.iml" filepath="$PROJECT_DIR$/lectia3n2/lectia3n2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia4n1/lectia4n1.iml" filepath="$PROJECT_DIR$/lectia4n1/lectia4n1.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia4n2/lectia4n2.iml" filepath="$PROJECT_DIR$/lectia4n2/lectia4n2.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectia5n1/lectia5n1.iml" filepath="$PROJECT_DIR$/lectia5n1/lectia5n1.iml" />

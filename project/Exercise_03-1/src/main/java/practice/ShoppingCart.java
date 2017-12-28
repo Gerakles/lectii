@@ -1,4 +1,4 @@
-package main.java;
+package practice;
 
 public class ShoppingCart {
 }
