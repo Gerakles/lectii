@@ -33,6 +33,7 @@
         <module>lectia15n1</module>
         <module>lectia15tc1</module>
         <module>lectia15tc2</module>
+        <module>practicaY1AntiBoty</module>
     </modules>
     <packaging>pom</packaging>
 

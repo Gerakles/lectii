@@ -1,12 +1,14 @@
+import java.util.List;
+
 public class Node {
-    public int value;
+    public String value;
     public Node next;
 
-    public int getValue() {
+    public String getValue() {
         return value;
     }
 
-    public void setValue(int value) {
+    public void setValue(String value) {
         this.value = value;
     }
 

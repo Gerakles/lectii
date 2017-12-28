@@ -1,5 +1,5 @@
 public interface MyList {
     Object get(int index);
-    Object add(int Object);
+    Object add(String object);
     int size();
 }

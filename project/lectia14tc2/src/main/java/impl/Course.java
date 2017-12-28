@@ -1,7 +1,5 @@
 package impl;
 
-import impl.Group;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,8 +20,6 @@ public class Course {
             lesson.start();
             listofLessons.add( lesson );
         }
-
-
     }
 
     public void printLessons() {
@@ -35,19 +31,19 @@ public class Course {
 
     public void printPresence() {
         checkStarted();
-        System.out.println("\nPrintam presenta ");
+        System.out.println( "\nPrintam presenta " );
         for (Staff presence : group.getAllStaff()) {
             int i = 0;
             int j = 0;
-            System.out.println(presence);
-            for (Lesson lessonpressence: listofLessons) {
-                if (lessonpressence.getPresence().isPresent(presence)) {
+            System.out.println( presence );
+            for (Lesson lessonpressence : listofLessons) {
+                if (lessonpressence.getPresence().isPresent( presence )) {
                     i++;
                 } else {
                     j++;
                 }
             }
-            System.out.println("prezenta "+i+" obsenta "+j);
+            System.out.println( "prezenta " + i + " obsenta " + j );
         }
     }
 //    public void printPresence() {
@@ -59,7 +55,7 @@ public class Course {
 //    }
 
     private void checkStarted() {
-        if (listofLessons == null)  {
+        if (listofLessons == null) {
             throw new NotStartedException();
         }
     }
