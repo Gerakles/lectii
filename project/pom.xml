@@ -12,8 +12,8 @@
         <module>Exercise_03-2</module>
         <module>Exercise_04-1</module>
         <module>Exercise_04-2</module>
+        <module>Exercise_05-1</module>
         <module>lesson_12</module>
-        <module>lectia5n1</module>
         <module>lectia5n2</module>
         <module>lectia5n3</module>
         <module>lectia6n1</module>
@@ -34,7 +34,7 @@
         <module>lectia15tc1</module>
         <module>lectia15tc2</module>
         <module>practicaY1AntiBoty</module>
-        <module>Exercise_05-1</module>
+        <module>Exercise_05-2</module>
     </modules>
     <packaging>pom</packaging>
 
