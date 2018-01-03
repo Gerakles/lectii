@@ -12,3 +12,4 @@ public class Shop {
         System.out.println("Total cost with tax is: "+total);
     }
 }
+

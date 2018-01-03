@@ -34,6 +34,7 @@
         <module name="Lectia_2TP" />
         <module name="lesson_12" />
         <module name="practicaY1AntiBoty" />
+        <module name="Starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -79,6 +80,7 @@
       <module name="lesson_12" target="1.8" />
       <module name="practicaY1AntiBoty" target="1.8" />
       <module name="project" target="1.8" />
+      <module name="Starter" target="1.8" />
       <module name="Steaua" target="1.5" />
     </bytecodeTargetLevel>
   </component>
