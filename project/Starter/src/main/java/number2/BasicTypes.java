@@ -30,16 +30,16 @@ public class BasicTypes {
         String firstString = "Every says: ";
         String secondString = "Soli Deo Gloria!";
 
-        System.out.println("от "+a1+ " до "+a2 );
-        System.out.println("от "+b1+ " до "+b2 );
-        System.out.println("от "+c1+ " до "+c2 );
-        System.out.println("от "+d1+ " до "+d2 );
-        System.out.println("от "+e1+ " до "+e2 );
-        System.out.println("от "+f1+ " до "+f2 );
-        System.out.println("от "+g1+ " до "+g2 );
-        System.out.println("от "+h1+ " до "+h2 );
-        System.out.println(firstString+secondString);
-        System.out.println(Integer.MAX_VALUE);
-        System.out.println(Integer.MIN_VALUE);
+        System.out.println( "от " + a1 + " до " + a2 );
+        System.out.println( "от " + b1 + " до " + b2 );
+        System.out.println( "от " + c1 + " до " + c2 );
+        System.out.println( "от " + d1 + " до " + d2 );
+        System.out.println( "от " + e1 + " до " + e2 );
+        System.out.println( "от " + f1 + " до " + f2 );
+        System.out.println( "от " + g1 + " до " + g2 );
+        System.out.println( "от " + h1 + " до " + h2 );
+        System.out.println( firstString + secondString );
+        System.out.println( Integer.MAX_VALUE );
+        System.out.println( Integer.MIN_VALUE );
     }
 }
