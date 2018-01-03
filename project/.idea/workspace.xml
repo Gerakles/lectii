@@ -4,6 +4,7 @@
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../05/src" afterPath="$PROJECT_DIR$/../05/src" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starter/src/main/java/number1/HelloWorld.java" afterPath="$PROJECT_DIR$/Starter/src/main/java/number1/HelloWorld.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starter/src/main/java/number2/Bytte.java" afterPath="$PROJECT_DIR$/Starter/src/main/java/number2/Bytte.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -93,11 +94,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bytte.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Bytte.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number2/Bytte.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicTypes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number2/BasicTypes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -107,7 +118,7 @@
         <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number1/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -448,7 +459,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lectia15tc1/src/main/java/areng.java" />
         <option value="$PROJECT_DIR$/lectia14tc2/src/main/java/impl/Lesson.java" />
         <option value="$PROJECT_DIR$/lectia14tc2/src/main/java/NotStartedException.java" />
         <option value="$PROJECT_DIR$/lectia14tc2/src/main/java/impl/NotStartedException.java" />
@@ -496,9 +506,10 @@
         <option value="$PROJECT_DIR$/Exercise_04-2/src/main/java/Shop.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/HelloWorld.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/machinematematics.java" />
-        <option value="$PROJECT_DIR$/Starter/src/main/java/number1/HelloWorld.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/Bytte.java" />
+        <option value="$PROJECT_DIR$/Starter/src/main/java/number1/HelloWorld.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number2/Bytte.java" />
+        <option value="$PROJECT_DIR$/Starter/src/main/java/number2/BasicTypes.java" />
       </list>
     </option>
   </component>
@@ -582,15 +593,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="number1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="Starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="number2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -630,7 +632,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bytte (1)">
+  <component name="RunManager" selected="Application.BasicTypes">
+    <configuration name="BasicTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="number2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="number2.BasicTypes" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HW" />
+      <envs />
+    </configuration>
     <configuration name="Bytte (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -681,20 +702,6 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="HW" />
-      <envs />
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="number1.HelloWorld" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Starter" />
       <envs />
     </configuration>
     <configuration name="Shop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -819,19 +826,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Bytte" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Shop" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HelloWorld (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Bytte (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Bytte" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Shop" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HelloWorld (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Bytte (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BasicTypes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Bytte (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Shop" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Bytte" />
-        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld" />
+        <item index="0" class="java.lang.String" itemvalue="Application.BasicTypes" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Bytte (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HelloWorld (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Shop" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Bytte" />
       </list>
     </recent_temporary>
   </component>
@@ -927,13 +934,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lectia14tc2/src/main/java/api/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lectia15tc1/src/main/java/areng.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1226,15 +1226,23 @@
     <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number1/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number2/Bytte.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="89" lean-forward="false" selection-start-line="5" selection-start-column="89" selection-end-line="5" selection-end-column="89" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number2/BasicTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="42" column="44" lean-forward="false" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
           <folding />
         </state>
       </provider>
