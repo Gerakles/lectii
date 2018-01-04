@@ -6,7 +6,7 @@ public class ZnakVoprosa {
         int b = 2;
         int c = 0;
 
-        c = (a > b) ? a : b;
+        c = (a > b) ? c : b;
         System.out.println( c );
     }
 }
