@@ -14,6 +14,7 @@
         <module name="Exercise_05-2" />
         <module name="Exercise_05-3" />
         <module name="Exercise_06-1" />
+        <module name="Exercise_06-2" />
         <module name="lectia12ntc" />
         <module name="lectia13n1" />
         <module name="lectia14n1" />
@@ -22,7 +23,6 @@
         <module name="lectia15n1" />
         <module name="lectia15tc1" />
         <module name="lectia15tc2" />
-        <module name="lectia6n2" />
         <module name="lectia6n3" />
         <module name="lectia7n1" />
         <module name="lectia7n2" />
@@ -47,6 +47,7 @@
       <module name="Exercise_05-2" target="1.8" />
       <module name="Exercise_05-3" target="1.8" />
       <module name="Exercise_06-1" target="1.8" />
+      <module name="Exercise_06-2" target="1.8" />
       <module name="kn" target="1.5" />
       <module name="lectia12ntc" target="1.8" />
       <module name="lectia13n1" target="1.8" />

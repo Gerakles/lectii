@@ -1,9 +1,8 @@
 public class odject {
-    public static void main(String[] args) {
-        int ID;
-        String descr;
-        double price;
-        int quantity;
+        public int ID;
+        public String descr;
+        public double price;
+        public int quantity;
     }
 
 //    public static void main(String[] args) {
@@ -15,4 +14,4 @@ public class odject {
 //
 //        System.out.println( "Customer : " + name );
 //    }
-}
+
