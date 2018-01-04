@@ -35,6 +35,7 @@
         <module>lectia15tc2</module>
         <module>practicaY1AntiBoty</module>
         <module>Starter</module>
+        <module>Exercise_06-3</module>
     </modules>
     <packaging>pom</packaging>
 
