@@ -14,7 +14,9 @@ public class CoffeeMachine {
 
         switch (coffeeSize) {
             case "3": cost +=25;
+            break;
             case "2": cost +=15;
+            break;
             case "1": cost +=10;
             break;
             default:
