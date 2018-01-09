@@ -21,8 +21,8 @@
         <module>Exercise_07-1</module>
         <module>Exercise_07-2</module>
         <module>Exercise_07-3</module>
+        <module>Exercise_08-1</module>
         <module>lesson_12</module>
-        <module>lectia8n1</module>
         <module>lectia8n2</module>
         <module>lectia8n3</module>
         <module>lectia12ntc</module>
@@ -36,6 +36,7 @@
         <module>practicaY1AntiBoty</module>
         <module>Starter</module>
         <module>Exercise_05-More</module>
+        <module>Exercise_08-2</module>
     </modules>
     <packaging>pom</packaging>
 
