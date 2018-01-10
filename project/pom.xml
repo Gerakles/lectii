@@ -37,6 +37,7 @@
         <module>Starter</module>
         <module>Exercise_05-More</module>
         <module>Exercise_08-2</module>
+        <module>Exercise_16-practica</module>
     </modules>
     <packaging>pom</packaging>
 
