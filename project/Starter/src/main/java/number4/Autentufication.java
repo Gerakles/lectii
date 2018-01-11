@@ -1,5 +1,6 @@
 package number4;
 
+import java.time.LocalTime;
 import java.util.Scanner;
 
 public class Autentufication {
@@ -7,6 +8,7 @@ public class Autentufication {
         String login = "Yakim";
         String password = "vittoria44";
 
+        LocalTime myDate = LocalTime.now();
         Scanner sc = new Scanner(System.in);
         System.out.println("Write login: ");
         String userLogin = sc.next();
@@ -16,9 +18,9 @@ public class Autentufication {
             String UserPassword = sc.next();
 
             if (password.equals( UserPassword )) {
-                System.out.println("Добро пожаловать "+login+" ,You're logged in");
+                System.out.println("Добро пожаловать "+login+" ,Вы вошли в "+ myDate);
             } else {
-                System.out.println("You have entered the wrong password!");
+                System.out.println();
             }
         } else {
             System.out.println("There is no user with that name!");
