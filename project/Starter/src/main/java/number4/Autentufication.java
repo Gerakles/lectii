@@ -16,7 +16,7 @@ public class Autentufication {
             String UserPassword = sc.next();
 
             if (password.equals( UserPassword )) {
-                System.out.println("Welcome "+login+" ,You're logged in");
+                System.out.println("Добро пожаловать "+login+" ,You're logged in");
             } else {
                 System.out.println("You have entered the wrong password!");
             }
