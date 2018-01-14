@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Starter/target/classes/number4/Autentufication.class" afterPath="$PROJECT_DIR$/Starter/target/classes/number4/Autentufication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,8 +91,8 @@
       <file leaf-file-name="Randomm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson_12/src/main/java/Randomm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-285">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="51">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,8 +113,8 @@
       <file leaf-file-name="Autentufication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number4/Autentufication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+            <state relative-caret-position="272">
+              <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,11 +122,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="firstProgram.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="firstProgram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Starter/src/main/java/practics/firstProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="391">
+              <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Polindrome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Starter/src/main/java/practics/Polindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -396,7 +406,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Starter/src/main/java/number4/swichcase.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number3/Operatii.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number3/LocalVariables.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number3/Concatenation.java" />
@@ -447,6 +456,7 @@
         <option value="$PROJECT_DIR$/lectia12ntc/src/main/java/laTrei.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number4/Autentufication.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/practics/firstProgram.java" />
+        <option value="$PROJECT_DIR$/Starter/src/main/java/practics/Polindrome.java" />
       </list>
     </option>
   </component>
@@ -495,58 +505,6 @@
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lectia12ntc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lectia12ntc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lectia12ntc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lectia12ntc" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_12" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="Starter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -569,15 +527,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="Starter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="number4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
@@ -592,10 +541,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -629,7 +578,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.firstProgram">
+  <component name="RunManager" selected="Application.Polindrome">
     <configuration name="Autentufication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -666,6 +615,25 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="HW" />
+      <envs />
+    </configuration>
+    <configuration name="Polindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="practics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="practics.Polindrome" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Starter" />
       <envs />
     </configuration>
     <configuration name="Randomm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -775,20 +743,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="dopolnenie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="dopolnenie" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Exercise_08-1" />
-      <envs />
-    </configuration>
     <configuration name="firstProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -823,19 +777,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.dopolnenie" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Autentufication" />
-      <item index="2" class="java.lang.String" itemvalue="Application.laTrei" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Randomm" />
-      <item index="4" class="java.lang.String" itemvalue="Application.firstProgram" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Autentufication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.laTrei" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Randomm" />
+      <item index="3" class="java.lang.String" itemvalue="Application.firstProgram" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Polindrome" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.firstProgram" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Autentufication" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Randomm" />
-        <item index="3" class="java.lang.String" itemvalue="Application.laTrei" />
-        <item index="4" class="java.lang.String" itemvalue="Application.dopolnenie" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Polindrome" />
+        <item index="1" class="java.lang.String" itemvalue="Application.firstProgram" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Autentufication" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Randomm" />
+        <item index="4" class="java.lang.String" itemvalue="Application.laTrei" />
       </list>
     </recent_temporary>
   </component>
@@ -866,7 +820,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32715008" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6795953" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31703204" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25287357" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -901,13 +855,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number4/swichcase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number4/CoffeeMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1194,14 +1141,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="142" column="58" lean-forward="false" selection-start-line="142" selection-start-column="58" selection-end-line="142" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson_12/src/main/java/Randomm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1218,8 +1164,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number4/Autentufication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="17" column="44" lean-forward="true" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        <state relative-caret-position="272">
+          <caret line="17" column="44" lean-forward="false" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1228,8 +1174,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Starter/src/main/java/practics/firstProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="391">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Starter/src/main/java/practics/Polindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="32" column="27" lean-forward="false" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
