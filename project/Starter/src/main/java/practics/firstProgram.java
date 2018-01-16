@@ -22,7 +22,6 @@ public class firstProgram {
 
         System.out.println( "Level 1: " );
         String local1 = sc.next();
-
         if (loc1.equals( local1 )) {
             System.out.println( "GOOD & level 2: " );
             String local2 = sc.next();
