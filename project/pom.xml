@@ -38,6 +38,7 @@
         <module>Exercise_05-More</module>
         <module>Exercise_08-2</module>
         <module>Exercise_16-practica</module>
+        <module>Exercise_Optional_01</module>
     </modules>
     <packaging>pom</packaging>
 
