@@ -9,8 +9,9 @@ public class lambda {
 
         ArrayList<Integer> ints = new ArrayList <>();
         ints.add( 1 );
-        ints.add( 2 );
-        ints.add( 3 );
+        ints.add( 0 );
+        ints.add( 6 );
+        ints.add( 6 );
         ints.forEach( integer -> System.out.println(integer+1) );// с помошью lambda плюсуем все +1
         ints.forEach(System.out::println);//здесь просто печатаем ArrayList
     }
