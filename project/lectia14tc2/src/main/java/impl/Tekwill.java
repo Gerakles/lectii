@@ -17,7 +17,7 @@ public class Tekwill{
             staffList.add( new Student( "Iachimciuc Bogdan 19" ) );
 
             Group group = new Group( staffList );
-            Course courseOCA = new Course( group,  1);
+            Course courseOCA = new Course( group,  10 );
 
             courseOCA.start();
             courseOCA.printLessons();      //prezenta
