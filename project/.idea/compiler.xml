@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="CodeWars" />
         <module name="Exercise_03-1" />
         <module name="Exercise_03-2" />
         <module name="Exercise_04-1" />
@@ -42,6 +43,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CodeWars" target="1.8" />
       <module name="Exercise_03-1" target="1.8" />
       <module name="Exercise_03-2" target="1.8" />
       <module name="Exercise_031" target="1.8" />
