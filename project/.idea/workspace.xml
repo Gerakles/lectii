@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Cify.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Cody.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Course.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Lity.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Main.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Ran.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Clase/Yakim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Intefete/COD.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Intefete/ROLE.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/practicaY1AntiBoty/target/classes/Intefete/SQRT.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson_12/target/lesson_12-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/lesson_12/target/lesson_12-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson_12/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/lesson_12/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeWars/src/main/java/Kata.java" afterPath="$PROJECT_DIR$/CodeWars/src/main/java/Kata.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -166,12 +150,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Kata.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Kata.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/Kata.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriangleTester.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/TriangleTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#79#80#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -450,9 +447,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Starter/src/main/java/number4/Ternary3.java" />
-        <option value="$PROJECT_DIR$/Starter/src/main/java/number4/Ternary4.java" />
-        <option value="$PROJECT_DIR$/Starter/src/main/java/number4/Ternary5.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number4/SwitchCase.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number4/Ternary6.java" />
         <option value="$PROJECT_DIR$/Starter/src/main/java/number4/SwitchCase2.java" />
@@ -501,6 +495,9 @@
         <option value="$PROJECT_DIR$/CodeWars/src/test/java/Katatest.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/test/java/KataTest.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/main/java/Kata.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/Kata2.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/Triagle.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/TriangleTester.java" />
       </list>
     </option>
   </component>
@@ -997,13 +994,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Starter/src/main/java/practics/Scan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="77" lean-forward="false" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Starter/src/main/java/number4/Autentufication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -1371,8 +1361,19 @@
     <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/Kata.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/TriangleTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#79#80#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

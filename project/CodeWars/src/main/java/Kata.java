@@ -1,5 +1,3 @@
-
-
 public class Kata {
     public static int sum(int[] numbers) {
         int sum = 0;
