@@ -6,15 +6,15 @@ public class Kata {
         int max = numbers[0];
 
         for (int num : numbers) {
-            sum += num;
+            sum2 += num;
             if (num < min) {
                 min = num;
             }
             if (num > max) {
                 max = num;
             }
-            sum2 = sum - max - min;
+            sum = sum2 - max - min;
         }
-        return sum2;
+        return sum;
     }
 }
