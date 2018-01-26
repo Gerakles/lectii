@@ -1,7 +1,7 @@
 public class Max {
     public static int sequence(int[] arr) {
         int max = arr[0];
-        arr = new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4};
+        //arr = new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4};
 
         int[] sumArray = new int[arr.length];
 
@@ -13,7 +13,7 @@ public class Max {
             sumArray[i] = sum;
 
         }
-        System.out.println(getMax( sumArray));
+        //System.out.println(getMax( sumArray));
 
         return getMax( sumArray );
     }
