@@ -38,6 +38,7 @@
         <module name="lectia_12" />
         <module name="Lectia_2TP" />
         <module name="lesson_12" />
+        <module name="Matrix" />
         <module name="practicaY1AntiBoty" />
         <module name="Starter" />
       </profile>
@@ -94,6 +95,7 @@
       <module name="lectia_12" target="1.8" />
       <module name="Lectia_2TP" target="1.5" />
       <module name="lesson_12" target="1.8" />
+      <module name="Matrix" target="1.8" />
       <module name="practicaY1AntiBoty" target="1.8" />
       <module name="project" target="1.8" />
       <module name="Starter" target="1.8" />
