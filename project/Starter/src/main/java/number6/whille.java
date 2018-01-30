@@ -6,8 +6,7 @@ public class whille {
     public static void main(String[] args) {
         Scanner sc = new Scanner( System.in );
         int a = sc.nextInt();
-
-        while (a < 1621) {
+while (a < 1621) {
             a++;
 
             if (a == 1066) break;
