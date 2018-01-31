@@ -41,6 +41,7 @@
         <module>Exercise_Optional_01</module>
         <module>CodeWars</module>
         <module>Matrix</module>
+        <module>Spoj</module>
     </modules>
     <packaging>pom</packaging>
 

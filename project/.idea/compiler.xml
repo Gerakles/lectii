@@ -98,6 +98,7 @@
       <module name="Matrix" target="1.8" />
       <module name="practicaY1AntiBoty" target="1.8" />
       <module name="project" target="1.8" />
+      <module name="Spoj" target="1.8" />
       <module name="Starter" target="1.8" />
       <module name="Steaua" target="1.5" />
     </bytecodeTargetLevel>
