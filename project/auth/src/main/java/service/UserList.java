@@ -10,7 +10,8 @@ public class UserList {
 
     static {
         users = new ArrayList <>();
-        users.add( new User( "Gerrakles", "Password" ) );
-        users.add( new User( "Holop", "Password" ) );
+        users.add( new User( "Gerakles", "pass" ) );
+        users.add( new User( "test", "test" ) );
+        users.add( new User( "Holop", "pas" ) );
     }
 }

@@ -3,15 +3,22 @@ package service;
 import model.User;
 
 public class Authentication {
-    boolean login(String username, String password) {
+    public User carentuser;
+    public boolean login(String login, String password) {
         for (User user: UserList.users ) {
-            
+            if (login.equals( user.getLogin()) && password.equals( user.getPassword() )) {
+                carentuser = user;
+                return  true;
+            }
         }
         return false;
     }
 
-    public String getcaretuser() {
-        return null;
+    public User getcarentuser() {
+        return carentuser;
     }
 
+    public void setCarentuser(User carentuser) {
+        this.carentuser = carentuser;
+    }
 }
