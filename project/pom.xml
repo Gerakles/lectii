@@ -42,6 +42,7 @@
         <module>CodeWars</module>
         <module>Matrix</module>
         <module>Spoj</module>
+        <module>auth</module>
     </modules>
     <packaging>pom</packaging>
 

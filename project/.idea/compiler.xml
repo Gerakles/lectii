@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="auth" />
         <module name="CodeWars" />
         <module name="Exercise_03-1" />
         <module name="Exercise_03-2" />
@@ -39,11 +40,11 @@
         <module name="Lectia_2TP" />
         <module name="lesson_12" />
         <module name="Matrix" />
-        <module name="practicaY1AntiBoty" />
         <module name="Starter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="auth" target="1.8" />
       <module name="CodeWars" target="1.8" />
       <module name="Exercise_03-1" target="1.8" />
       <module name="Exercise_03-2" target="1.8" />

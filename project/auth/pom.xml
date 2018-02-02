@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>practicaY1AntiBoty</artifactId>
+    <artifactId>auth</artifactId>
 
 
 </project>
