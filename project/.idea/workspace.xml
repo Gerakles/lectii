@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/target/classes/Cli.class" afterPath="$PROJECT_DIR$/auth/target/classes/Cli.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/target/classes/service/Authentication.class" afterPath="$PROJECT_DIR$/auth/target/classes/service/Authentication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/target/classes/service/UserList.class" afterPath="$PROJECT_DIR$/auth/target/classes/service/UserList.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/Cli.java" afterPath="$PROJECT_DIR$/auth/src/main/java/Cli.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/model/Admin.java" afterPath="$PROJECT_DIR$/auth/src/main/java/model/Admin.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/service/Authentication.java" afterPath="$PROJECT_DIR$/auth/src/main/java/service/Authentication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" afterPath="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -123,8 +116,8 @@
       <file leaf-file-name="Cli.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auth/src/main/java/Cli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            <state relative-caret-position="520">
+              <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -478,10 +471,10 @@
         <option value="$PROJECT_DIR$/demos/src/test/java/SpojAbstract.java" />
         <option value="$PROJECT_DIR$/demos/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/demos/src/test/java/Main1Test.java" />
-        <option value="$PROJECT_DIR$/auth/src/main/java/Cli.java" />
         <option value="$PROJECT_DIR$/auth/src/main/java/model/Admin.java" />
         <option value="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" />
         <option value="$PROJECT_DIR$/auth/src/main/java/service/Authentication.java" />
+        <option value="$PROJECT_DIR$/auth/src/main/java/Cli.java" />
       </list>
     </option>
   </component>
@@ -1321,8 +1314,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/src/main/java/Cli.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        <state relative-caret-position="520">
+          <caret line="33" column="20" lean-forward="false" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

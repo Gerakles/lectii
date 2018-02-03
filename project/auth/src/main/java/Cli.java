@@ -12,7 +12,7 @@ public class Cli {
             String[] yak = coman.split( " " );
             switch (yak[0]) {
                 case "login":
-                    if (yakim.login( yak[1], yak[2] )) 
+                    if (yakim.login( yak[1], yak[2] ))
                         System.out.println( yakim.getcarentuser() );
                      else
                         System.out.println( "Good buy" );
@@ -31,3 +31,4 @@ public class Cli {
         }
     }
 }
+//I dont under stand
