@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="auth" />
         <module name="CodeWars" />
+        <module name="demos" />
         <module name="Exercise_03-1" />
         <module name="Exercise_03-2" />
         <module name="Exercise_04-1" />
@@ -39,13 +40,19 @@
         <module name="lectia_12" />
         <module name="Lectia_2TP" />
         <module name="lesson_12" />
-        <module name="Matrix" />
         <module name="Starter" />
+      </profile>
+      <profile name="Annotation profile for project" enabled="true">
+        <sourceOutputDir name="../auth/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../auth/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MyCompany" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="auth" target="1.8" />
       <module name="CodeWars" target="1.8" />
+      <module name="demos" target="1.8" />
       <module name="Exercise_03-1" target="1.8" />
       <module name="Exercise_03-2" target="1.8" />
       <module name="Exercise_031" target="1.8" />
@@ -97,6 +104,7 @@
       <module name="Lectia_2TP" target="1.5" />
       <module name="lesson_12" target="1.8" />
       <module name="Matrix" target="1.8" />
+      <module name="MyCompany" target="1.8" />
       <module name="practicaY1AntiBoty" target="1.8" />
       <module name="project" target="1.8" />
       <module name="Spoj" target="1.8" />

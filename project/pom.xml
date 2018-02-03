@@ -43,6 +43,7 @@
         <module>Matrix</module>
         <module>Spoj</module>
         <module>auth</module>
+        <module>demos</module>
     </modules>
     <packaging>pom</packaging>
 
