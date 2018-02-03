@@ -4,6 +4,8 @@
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/Cli.java" afterPath="$PROJECT_DIR$/auth/src/main/java/Cli.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/model/User.java" afterPath="$PROJECT_DIR$/auth/src/main/java/model/User.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" afterPath="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -106,18 +108,18 @@
       <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/src/main/java/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="374">
+              <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cli.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Cli.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/src/main/java/Cli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+            <state relative-caret-position="476">
+              <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,8 +140,8 @@
       <file leaf-file-name="UserList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/auth/src/main/java/service/UserList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -147,7 +149,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Authentication.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Authentication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/auth/src/main/java/service/Authentication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -461,7 +463,6 @@
         <option value="$PROJECT_DIR$/CodeWars/src/test/java/kyu8/BonusTimeTest.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu8/Kata2.java" />
         <option value="$PROJECT_DIR$/MyCompany/src/main/java/Cli.java" />
-        <option value="$PROJECT_DIR$/auth/src/main/java/model/User.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/test/java/kyu5/WeightSortTest.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu5/WeightSort.java" />
         <option value="$PROJECT_DIR$/demos/pom.xml" />
@@ -472,9 +473,10 @@
         <option value="$PROJECT_DIR$/demos/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/demos/src/test/java/Main1Test.java" />
         <option value="$PROJECT_DIR$/auth/src/main/java/model/Admin.java" />
-        <option value="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" />
         <option value="$PROJECT_DIR$/auth/src/main/java/service/Authentication.java" />
         <option value="$PROJECT_DIR$/auth/src/main/java/Cli.java" />
+        <option value="$PROJECT_DIR$/auth/src/main/java/model/User.java" />
+        <option value="$PROJECT_DIR$/auth/src/main/java/service/UserList.java" />
       </list>
     </option>
   </component>
@@ -1288,16 +1290,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/src/main/java/model/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="374">
+          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth/src/main/java/Cli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/auth/src/main/java/service/UserList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1309,16 +1321,6 @@
         <state relative-caret-position="34">
           <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auth/src/main/java/Cli.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
