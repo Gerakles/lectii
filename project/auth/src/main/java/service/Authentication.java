@@ -1,6 +1,5 @@
 package service;
 
-//import model.Admin;
 import model.User;
 
 public class Authentication {
@@ -24,23 +23,3 @@ public class Authentication {
         this.carentuser = carentuser;
     }
 }
-
-//    public Admin carentAdmin;
-//    public boolean logins(String login, String password) {
-//        for (Admin AD: UserList.admins ) {
-//            if (login.equals( AD.getLogins()) && password.equals( AD.getPasswords() )) {
-//                carentAdmin = AD;
-//                return  true;
-//            }
-//        }
-//        return false;
-//    }
-//
-//    public Admin getCarentAdmin() {
-//        return carentAdmin;
-//    }
-//
-//    public void setCarentAdmin(Admin carentAdmin) {
-//        this.carentAdmin = carentAdmin;
-//    }
-//}
