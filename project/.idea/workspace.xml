@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java" afterPath="$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -103,83 +103,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SolutionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu4/SolutionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu4/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding>
-                <element signature="e#82#83#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Consecutives.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu6/Consecutives.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemovedNumbers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RemovedNumbers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemovedNumbersTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemovedNumbersTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu5/RemovedNumbersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ConsecutivesTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu6/ConsecutivesTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumSquaredDivisors.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu5/SumSquaredDivisors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -500,8 +441,8 @@
         <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu4/Solution.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/test/java/kyu6/ConsecutivesTest.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu6/Consecutives.java" />
-        <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java" />
         <option value="$PROJECT_DIR$/CodeWars/src/test/java/kyu5/RemovedNumbersTest.java" />
+        <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java" />
       </list>
     </option>
   </component>
@@ -654,7 +595,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Consecutives">
+  <component name="RunManager" selected="JUnit.RemovedNumbersTest">
     <configuration name="Concatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -718,6 +659,31 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="RemovedNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="kyu5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="CodeWars" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="kyu5" />
+      <option name="MAIN_CLASS_NAME" value="kyu5.RemovedNumbersTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -751,31 +717,6 @@
       <option name="MAIN_CLASS_NAME" value="kyu4.SolutionTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="SolutionTest.exampleTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="kyu4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="CodeWars" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="kyu4" />
-      <option name="MAIN_CLASS_NAME" value="kyu4.SolutionTest" />
-      <option name="METHOD_NAME" value="exampleTests" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -882,18 +823,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SolutionTest.exampleTests" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.ConsecutivesTest" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Consecutives" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ConsecutivesTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Consecutives" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RemovedNumbersTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Consecutives" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.ConsecutivesTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest.exampleTests" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RemovedNumbersTest" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Consecutives" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.ConsecutivesTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SolutionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -914,32 +855,32 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ConsecutivesTest - 2018.02.05 at 20h 28m 37s.xml">
-      <configuration name="ConsecutivesTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 52m 17s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 32m 56s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 52m 48s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 36m 16s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 53m 37s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 39m 41s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 54m 16s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 40m 40s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 57m 55s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 40m 50s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 58m 40s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 46m 02s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 22h 59m 40s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 51m 38s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 23h 00m 25s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SolutionTest - 2018.02.05 at 19h 53m 31s.xml">
-      <configuration name="SolutionTest" configurationId="JUnit" />
+    <history-entry file="RemovedNumbersTest - 2018.02.06 at 23h 01m 14s.xml">
+      <configuration name="RemovedNumbersTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SolutionTest_exampleTests - 2018.02.05 at 19h 36m 16s.xml">
       <configuration name="SolutionTest.exampleTests" configurationId="JUnit" />
@@ -951,6 +892,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32676518" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -973,7 +915,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32676518" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1236,6 +1177,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1303,14 +1245,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/LongestCommonSubsequence.java" />
-    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu5/SumSquaredDivisors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu4/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1332,16 +1266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu6/ConsecutivesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu6/Consecutives.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1352,21 +1276,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java">
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu6/ConsecutivesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu5/SumSquaredDivisors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/src/test/java/kyu5/RemovedNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/src/main/java/kyu5/RemovedNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
