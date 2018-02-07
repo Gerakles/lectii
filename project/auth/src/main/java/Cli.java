@@ -1,4 +1,8 @@
+import api.Resource;
+import model.User;
 import service.Authentication;
+import service.ResurcesList;
+import service.UserList;
 //import service.AuthenticationAdmin;
 
 import java.util.Scanner;
@@ -6,9 +10,9 @@ import java.util.Scanner;
 public class Cli {
     public static void main(String[] args) {
         Authentication yakim = new Authentication();
-        //AuthenticationAdmin yakimAdmin = new AuthenticationAdmin();
         Scanner sc = new Scanner( System.in );
-        while (sc.hasNext()) {
+        boolean exit = false;
+        while (!exit && sc.hasNext()) {
             String coman = sc.nextLine();
             String[] yak = coman.split( " " );
             switch (yak[0]) {
@@ -18,21 +22,30 @@ public class Cli {
                      else
                         System.out.println( "Good buy" );
                     break;
-//                case "Admin":
-//                    if (yakimAdmin.logins( yak[1],yak[2] ))
-//                        System.out.println(yakimAdmin.getCarentAdmin());
-//                    else
-//                        System.out.println("You not Admin");
-//                    break;
+                case "new":
+                    String userName = yak[1];
+                    String pass = yak[2];
+                    User u = UserList.createUser( userName, pass );
+                    System.out.println("Was created "+ u);
+                    break;
                 case "info":
                     if (yakim.getcarentuser() != null)
                         System.out.println( yakim.getcarentuser() );
                     else
                         System.out.println( "please login" );
                     break;
+                case "get":
+                    Resource res = ResurcesList.findByTitle( yak[1] );
+                    if (yakim.getcarentuser().getRole().hasAccess( res ))
+                        System.out.println("Have access " + res);
+                    else
+                        System.out.println("Don't access "+ res);
+                    break;
                 case "logaut":
                     yakim.setCarentuser( null );
                     break;
+                case"exit":
+                    exit = true;
             }
         }
     }

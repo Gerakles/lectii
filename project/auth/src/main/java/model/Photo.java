@@ -6,7 +6,8 @@ public class Photo implements Resource {
     String title;
     int size;
 
-    public Photo(int size) {
+    public Photo(String title, int size) {
+        this.title = title;
         this.size = size;
     }
 
