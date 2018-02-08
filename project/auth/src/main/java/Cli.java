@@ -3,9 +3,10 @@ import model.User;
 import service.Authentication;
 import service.ResurcesList;
 import service.UserList;
-//import service.AuthenticationAdmin;
 
 import java.util.Scanner;
+
+//import service.AuthenticationAdmin;
 
 public class Cli {
     public static void main(String[] args) {
@@ -19,32 +20,32 @@ public class Cli {
                 case "login":
                     if (yakim.login( yak[1], yak[2] ))
                         System.out.println( yakim.getcarentuser() );
-                     else
+                    else
                         System.out.println( "Good buy" );
                     break;
                 case "new":
                     String userName = yak[1];
                     String pass = yak[2];
                     User u = UserList.createUser( userName, pass );
-                    System.out.println("Was created "+ u);
+                    System.out.println( "Was created " + u );
                     break;
                 case "info":
-                    if (yakim.getcarentuser() != null)
+                    if (yakim.getcarentuser() != null) {
                         System.out.println( yakim.getcarentuser() );
-                    else
+                    } else
                         System.out.println( "please login" );
                     break;
                 case "get":
                     Resource res = ResurcesList.findByTitle( yak[1] );
                     if (yakim.getcarentuser().getRole().hasAccess( res ))
-                        System.out.println("Have access " + res);
+                        System.out.println( "Have access " + res );
                     else
-                        System.out.println("Don't access "+ res);
+                        System.out.println( "Don't access " + res );
                     break;
                 case "logaut":
                     yakim.setCarentuser( null );
                     break;
-                case"exit":
+                case "exit":
                     exit = true;
             }
         }

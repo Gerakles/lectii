@@ -1,9 +1,6 @@
 package kyu4;
 
 public class Solution {
-    public static void main(String[] args) {
-        System.out.println(Solution.lcs("abcdef", "abc"));
-    }
     public static String lcs(String x, String y) {
         if (x.isEmpty() || y.isEmpty())
             return new String();

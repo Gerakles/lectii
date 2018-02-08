@@ -11,6 +11,9 @@ public class User {
         this.role = role;
     }
 
+    public User(char[] array) {
+    }
+
     public String getLogin() {
         return login;
     }
