@@ -19,4 +19,9 @@ public class UserList {
          users.add( user );
          return user;
     }
+    public static User deleteUser (String userName, String password) {
+        User duser = new User( userName, password,  RoleList.findByName( "user" ));
+        users.add(null);
+        return null;
+    }
 }

@@ -42,6 +42,13 @@ public class Cli {
                     else
                         System.out.println( "Don't access " + res );
                     break;
+                case "delete":
+                    String uN = yak[1];
+                    String uP = yak[2];
+                    User y = UserList.deleteUser( uN, uP );
+
+                    System.out.println( "Was deleted " + yak[1]+", "+yak[2] );
+                    break;
                 case "logaut":
                     yakim.setCarentuser( null );
                     break;
