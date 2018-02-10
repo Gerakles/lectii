@@ -1,17 +1,24 @@
 package model;
 
 public class User {
-    String login;
-    String password;
-    Role role;
+    private int id;
+    private String login;
+    private String password;
+    private int roleid;
 
-    public User(String login, String password, Role role) {
+    public User(int id, String login, String password, int roleid) {
+        this.id = id;
         this.login = login;
         this.password = password;
-        this.role = role;
+        this.roleid = roleid;
     }
 
-    public User(char[] array) {
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getLogin() {
@@ -30,17 +37,17 @@ public class User {
         this.password = password;
     }
 
-    public Role getRole() {
-        return role;
+    public int getRoleid() {
+        return roleid;
     }
 
-    public void setRole(Role role) {
-        this.role = role;
+    public void setRoleid(int roleid) {
+        this.roleid = roleid;
     }
 
     @Override
     public String toString() {
-        return "USER[" + login + ", " + password + ", " +role.getName()+"]";
+        return "USER["+id+", " + login + ", " + password + ", " +roleid+"]";
     }
 
 }

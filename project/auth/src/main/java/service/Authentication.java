@@ -6,7 +6,7 @@ public class Authentication {
     public User carentuser;
 
     public boolean login(String login, String password) {
-        for (User user : UserList.users) {
+        for (User user : UserList.service.findAll()) {
             if (login.equals( user.getLogin() ) && password.equals( user.getPassword() )) {
                 carentuser = user;
                 return true;

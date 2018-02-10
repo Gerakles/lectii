@@ -2,6 +2,7 @@ import api.Resource;
 import model.User;
 import service.Authentication;
 import service.ResurcesList;
+import service.RoleList;
 import service.UserList;
 
 import java.util.Scanner;
@@ -26,7 +27,7 @@ public class Cli {
                 case "new":
                     String userName = yak[1];
                     String pass = yak[2];
-                    User u = UserList.createUser( userName, pass );
+                    User u = UserList.service.createUser( userName, pass );
                     System.out.println( "Was created " + u );
                     break;
                 case "info":
@@ -37,17 +38,15 @@ public class Cli {
                     break;
                 case "get":
                     Resource res = ResurcesList.findByTitle( yak[1] );
-                    if (yakim.getcarentuser().getRole().hasAccess( res ))
+                    if (RoleList.findById( yakim.getcarentuser().getRoleid() ).hasAccess( res ))
                         System.out.println( "Have access " + res );
                     else
                         System.out.println( "Don't access " + res );
                     break;
                 case "delete":
                     String uN = yak[1];
-                    String uP = yak[2];
-                    User y = UserList.deleteUser( uN, uP );
-
-                    System.out.println( "Was deleted " + yak[1]+", "+yak[2] );
+                    UserList.service.deleteUser( uN );
+                    System.out.println( "Was deleted " + uN );
                     break;
                 case "logaut":
                     yakim.setCarentuser( null );

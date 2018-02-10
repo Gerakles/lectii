@@ -8,10 +8,12 @@ import java.util.List;
 
 public class Role implements Authorization{
     String name;
+    int id;
     List<Resource> resources;
 
-    public Role(String name, List <Resource> resources) {
+    public Role(String name, int id, List <Resource> resources) {
         this.name = name;
+        this.id = id;
         this.resources = resources;
     }
 
@@ -21,6 +23,14 @@ public class Role implements Authorization{
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public List <Resource> getResources() {
