@@ -44,6 +44,7 @@
         <module>Spoj</module>
         <module>auth</module>
         <module>demos</module>
+        <module>Android</module>
     </modules>
     <packaging>pom</packaging>
 

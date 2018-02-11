@@ -1,6 +1,6 @@
 package kyu6;
 
-public class Suite2 {
+class Suite2 {
     public static String game(long n) {
         long yakim = n * n;
         if (yakim % 2 == 0) {
