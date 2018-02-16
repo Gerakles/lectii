@@ -1,7 +1,6 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.util.Random;
 import java.util.UUID;
 
 public class HappyBirthdayTest {
@@ -17,12 +16,12 @@ public class HappyBirthdayTest {
     @Test
     public void testrandom() {
         int a = 0;
-        for (int i = 0; i < UUID.randomUUID().toString().length(); i++) {
-            if (Character.isLetter( UUID.randomUUID().toString().charAt( i ) ))
+        String b = UUID.randomUUID().toString();
+        for (int i = 0; i < b.length(); i++) {
+            if (Character.isLetter( b.charAt( i ) ))
                 a++;
+        }
+        Assert.assertEquals( a, HappyBirthday.yakim( b ) );
 
-            Assert.assertEquals( a, HappyBirthday.yakim( UUID.randomUUID().toString() ) );
-        }
-        }
+    }
 }
-
