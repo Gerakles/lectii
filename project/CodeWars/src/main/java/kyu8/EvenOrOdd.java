@@ -1,5 +1,7 @@
 package kyu8;
 
+import java.util.Random;
+
 public class EvenOrOdd {
     public static String even_or_odd(int number) {
         String yalim1 = "Even";
