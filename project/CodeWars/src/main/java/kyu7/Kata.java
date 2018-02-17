@@ -7,8 +7,8 @@ class Kata {
         int lenght;
         if (a.length() % 2 == 1){
             position = a.length() / 2;
-        lenght = 1;
-    }else {
+            lenght = 1;
+        }else {
             position = a.length()/2-1;
             lenght=2;
         }
