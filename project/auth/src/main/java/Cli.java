@@ -28,7 +28,7 @@ public class Cli {
                     String userName = yak[1];
                     String pass = yak[2];
                     User u = UserList.service.createUser( userName, pass );
-                    System.out.println( "Was created " + u );
+                    System.out.println( "Was created ");
                     break;
                 case "info":
                     if (yakim.getcarentuser() != null) {
