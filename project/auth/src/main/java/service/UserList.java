@@ -33,6 +33,17 @@ public class UserList {
         return users;
     }
 
+    private Connection connect() {
+        // SQLite connection string
+        Connection conn = null;
+        try {
+            conn = DriverManager.getConnection(url);
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+        return conn;
+    }
+
     public User createUser(String name, String passowrd) {
         String sql = "INSERT INTO user(name,password,id_role) VALUES(?,?,2)";
 
@@ -46,19 +57,6 @@ public class UserList {
         }
         return null;
     }
-
-
-    private Connection connect() {
-        // SQLite connection string
-        Connection conn = null;
-        try {
-            conn = DriverManager.getConnection(url);
-        } catch (SQLException e) {
-            System.out.println(e.getMessage());
-        }
-        return conn;
-    }
-
     public void deleteUser (String name) {
         String sql = "DELETE FROM user Where name=?";
 

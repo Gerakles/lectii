@@ -41,6 +41,7 @@
         <module name="lectia_12" />
         <module name="Lectia_2TP" />
         <module name="lesson_12" />
+        <module name="Mesto_peremen" />
         <module name="Starter" />
       </profile>
       <profile name="Annotation profile for project" enabled="true">
@@ -106,6 +107,7 @@
       <module name="Lectia_2TP" target="1.5" />
       <module name="lesson_12" target="1.8" />
       <module name="Matrix" target="1.8" />
+      <module name="Mesto_peremen" target="1.8" />
       <module name="MyCompany" target="1.8" />
       <module name="practicaY1AntiBoty" target="1.8" />
       <module name="project" target="1.8" />
