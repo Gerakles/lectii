@@ -45,4 +45,9 @@ public class User {
     }
 
     private int roleId;
+
+    @Override
+    public String toString() {
+        return "USER["+id+", " + login + ", " + password + ", " +roleId+"]";
+    }
 }
