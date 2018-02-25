@@ -2,7 +2,6 @@ package model;
 
 import api.Authorization;
 import api.Resource;
-import service.Authentication;
 
 import java.util.List;
 
