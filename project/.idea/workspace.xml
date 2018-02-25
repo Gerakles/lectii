@@ -4,7 +4,6 @@
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mesto_peremen/src/main/java/Start.java" afterPath="$PROJECT_DIR$/Mesto_peremen/src/main/java/Start.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mesto_peremen/src/main/java/service/UserList.java" afterPath="$PROJECT_DIR$/Mesto_peremen/src/main/java/service/UserList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -106,34 +105,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Authentification.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mesto_peremen/src/main/java/service/Authentification.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Start.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mesto_peremen/src/main/java/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+            <state relative-caret-position="306">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResourseList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mesto_peremen/src/main/java/service/ResourseList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -1378,8 +1357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mesto_peremen/src/main/java/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="53" lean-forward="false" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+        <state relative-caret-position="306">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -16,6 +16,7 @@ public class Start {
                         System.out.println( mp.getCarentUser() );
                     else
                         System.out.println( "Good buy" );
+                    break;
             }
         }
     }
