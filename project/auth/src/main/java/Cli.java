@@ -7,8 +7,6 @@ import service.UserList;
 
 import java.util.Scanner;
 
-//import service.AuthenticationAdmin;
-
 public class Cli {
     public static void main(String[] args) {
         Authentication yakim = new Authentication();

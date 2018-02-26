@@ -4,7 +4,7 @@ import Interfaces.Resourse;
 
 public class Photo implements Resourse{
     String title;
-    String size;
+    int size;
 
     public Photo(String title, int size) {
         this.title = title;
@@ -15,11 +15,11 @@ public class Photo implements Resourse{
         this.title = title;
     }
 
-    public String getSize() {
+    public int getSize() {
         return size;
     }
 
-    public void setSize(String size) {
+    public void setSize(int size) {
         this.size = size;
     }
 

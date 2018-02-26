@@ -10,8 +10,8 @@ public class RoleList {
 
     static {
         rols = new ArrayList <>();
-        rols.add( new Role( "user", 1, ResurcesList.findUserResourse() ) );
-        rols.add( new Role( "admin", 2, ResurcesList.resours ) );
+        rols.add( new Role( "admin", 1, ResurcesList.resours ) );
+        rols.add( new Role( "user", 2, ResurcesList.findUserResourse() ) );
     }
 
     public static Role findByName(String name) {
