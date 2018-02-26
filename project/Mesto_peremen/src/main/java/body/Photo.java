@@ -2,17 +2,13 @@ package body;
 
 import Interfaces.Resourse;
 
-public class Photo implements Resourse{
+public class Photo implements Resourse {
     String title;
     int size;
 
     public Photo(String title, int size) {
         this.title = title;
         this.size = size;
-    }
-
-    public void setTitle(String title) {
-        this.title = title;
     }
 
     public int getSize() {
@@ -26,5 +22,9 @@ public class Photo implements Resourse{
     @Override
     public String getTitle() {
         return title;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
     }
 }
