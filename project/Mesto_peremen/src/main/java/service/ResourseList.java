@@ -12,9 +12,9 @@ public class ResourseList {
 
     static {
         resours = new ArrayList <>(  );
-        resours.add( new Page( "Main", "Вы попали на страницу Место Перемен" ) );
-        resours.add( new Page( "SecondPage", "Новости" ) );
-        resours.add( new Photo( "Frontal", 1234 ) );
+        resours.add( new Page( "main", "Вы попали на страницу Место Перемен" ) );
+        resours.add( new Page( "secondPage", "Новости" ) );
+        resours.add( new Photo( "frontal", 1234 ) );
     }
 
     public static List<Resourse> findAdminPage() {
