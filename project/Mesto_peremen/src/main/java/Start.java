@@ -15,7 +15,7 @@ public class Start {
                     if (mp.login( place[1], place[2] ))
                         System.out.println( mp.getCarentUser() );
                     else
-                        System.out.println( "Good buy" );
+                        System.out.println( "Ты не из место перемен! Почему?" );
                     break;
             }
         }

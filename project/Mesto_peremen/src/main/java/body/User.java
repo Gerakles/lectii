@@ -4,6 +4,7 @@ public class User {
     private int id;
     private String login;
     private String password;
+    private int roleId;
 
     public User(int id, String login, String password, int roleId) {
         this.id = id;
@@ -43,8 +44,6 @@ public class User {
     public void setRoleId(int roleId) {
         this.roleId = roleId;
     }
-
-    private int roleId;
 
     @Override
     public String toString() {

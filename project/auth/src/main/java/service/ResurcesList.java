@@ -30,7 +30,7 @@ public class ResurcesList {
     public static List <Resource> findUserResourse() {
         List <Resource> findNew = new ArrayList <>();
         for (int i = 0; i < resours.size(); i++) {
-            if (!resours.get( i ).getTitle().contains( "admin" ))
+            if (!resours.get( i ).getTitle().contains( "user" ))
                 findNew.add( resours.get( i ) );
 
         }

@@ -3,7 +3,6 @@ package body;
 import Interfaces.Authorization;
 import Interfaces.Resourse;
 
-import javax.annotation.Resource;
 import java.util.List;
 
 public class Role implements Authorization {
@@ -42,7 +41,7 @@ public class Role implements Authorization {
     }
 
     @Override
-    public boolean hasAcces(Resource resource) {
-        return resourses.contains( resource );
+    public boolean hasAcces(Resourse resourse) {
+        return resourses.contains( resourse );
     }
 }
