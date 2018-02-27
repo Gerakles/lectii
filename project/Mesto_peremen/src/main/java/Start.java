@@ -29,9 +29,9 @@ public class Start {
                     System.out.println( "Was created " + user );
                     break;
                 case "info":
-                    if (mp.getCarentUser() != null) {
+                    if (mp.getCarentUser() != null)
                         System.out.println( mp.getCarentUser() );
-                    } else
+                     else
                         System.out.println( "please login" );
                     break;
                 case "get":
