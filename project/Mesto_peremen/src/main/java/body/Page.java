@@ -30,6 +30,6 @@ public class Page implements Resourse{
 
     @Override
     public String toString() {
-        return "PAGE["+title+"]";
+        return "PAGE["+body+"]";
     }
 }

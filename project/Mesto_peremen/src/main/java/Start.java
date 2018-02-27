@@ -26,7 +26,7 @@ public class Start {
                     String name = place[1];
                     String password = place[2];
                     User user = UserList.service.createUser( name, password );
-                    System.out.println( "Was created ");
+                    System.out.println( "Was created " +user);
                     break;
                 case "info":
                     if (mp.getCarentUser() != null) {
@@ -35,16 +35,16 @@ public class Start {
                         System.out.println( "please login" );
                     break;
                 case "get":
-                    Resourse res = ResourseList.findByTitle(place[1] );
+                    Resourse res = ResourseList.findByTitle( place[1] );
                     if (RoleList.findByID( mp.getCarentUser().getId() ).hasAcces( res ))
                         System.out.println( "Have access " + res );
                     else
                         System.out.println( "Don't access " + res );
                     break;
                 case "delete":
-                    String uN = place[1];
-                    UserList.service.deleteUser( uN );
-                    System.out.println( "Was deleted " + uN );
+                    String del = place[1];
+                    UserList.service.deleteUser( del );
+                    System.out.println( "Was deleted " + del );
                     break;
                 case "logaut":
                     mp.setCarentUser( null );

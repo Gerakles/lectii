@@ -50,17 +50,6 @@ public class DatBase {
             System.out.println(e.getMessage());
         }
     }
-    public void deleteUser (String name) {
-        String sql = "DELETE FROM user Where name=?";
-
-        try (Connection conn = this.connect();
-             PreparedStatement pstmt = conn.prepareStatement(sql)) {
-            pstmt.setString(1, name);
-            pstmt.executeUpdate();
-        } catch (SQLException e) {
-            System.out.println(e.getMessage());
-        }
-    }
     public void selectAll() {
         String sql = "SELECT id, name, password, id_role FROM user";
 
