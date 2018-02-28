@@ -70,8 +70,7 @@ public class MiniGame {
             } else {
                 System.out.println( "O no! game over" );
             }
-        } else {
+        } else
             System.out.println( "O no! game over" );
-        }
     }
 }
