@@ -44,32 +44,24 @@ public class MiniGame {
                                     if (d == local8) {
                                         System.out.println( "Super Man & level 9: " );
                                         int local9 = sc.nextInt();
-                                        if (d == local9) {
+                                        if (d == local9)
                                             System.out.println( "End Game & level 10: " );
-                                        } else {
+                                        else
                                             System.out.println( "O no! game over" );
-                                        }
-                                    } else {
+                                    } else
                                         System.out.println( "O no! game over" );
-                                    }
-                                } else {
+                                } else
                                     System.out.println( "O no! game over" );
-                                }
-                            } else {
+                            } else
                                 System.out.println( "O no! game over" );
-                            }
-                        } else {
+                        } else
                             System.out.println( "O no! game over" );
-                        }
-                    } else {
+                    } else
                         System.out.println( "O no! game over" );
-                    }
-                } else {
+                } else
                     System.out.println( "O no! game over" );
-                }
-            } else {
+            } else
                 System.out.println( "O no! game over" );
-            }
         } else
             System.out.println( "O no! game over" );
     }
