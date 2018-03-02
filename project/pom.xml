@@ -43,6 +43,7 @@
         <module>demos</module>
         <module>Android</module>
         <module>Mesto_peremen</module>
+        <module>Essential</module>
     </modules>
     <packaging>pom</packaging>
 

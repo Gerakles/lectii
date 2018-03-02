@@ -10,6 +10,7 @@
         <module name="auth" />
         <module name="CodeWars" />
         <module name="demos" />
+        <module name="Essential" />
         <module name="Exercise_03-1" />
         <module name="Exercise_03-2" />
         <module name="Exercise_04-1" />
@@ -56,6 +57,7 @@
       <module name="auth" target="1.8" />
       <module name="CodeWars" target="1.8" />
       <module name="demos" target="1.8" />
+      <module name="Essential" target="1.8" />
       <module name="Exercise_03-1" target="1.8" />
       <module name="Exercise_03-2" target="1.8" />
       <module name="Exercise_031" target="1.8" />
