@@ -4,7 +4,6 @@ public class Main2 {
     public static void main(String[] args) {
         Car car1 = new Car("Audi", 80, 40, 40);
         Car car2 = new Car();
-
         System.out.println(car1.getMaxSpeed());
         System.out.println(car1.getModel());
 
