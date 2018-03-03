@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2186404-61a3-446d-9ae2-6fe46378a16b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Essential/src/main/java/BaseClass.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TP/src/Lectia_4_1" afterPath="$PROJECT_DIR$/../TP/src/Lectia_4_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -135,10 +136,10 @@
         </entry>
       </file>
       <file leaf-file-name="BaseClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Essential/src/main/java/BaseClass.java">
+        <entry file="file://$PROJECT_DIR$/Essential/src/main/java/L3/BaseClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -418,7 +419,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeWars/src/main/java/kyu4/GreenNumbers.java" />
         <option value="$PROJECT_DIR$/demos/src/test/java/paintMyClassroom.java" />
         <option value="$PROJECT_DIR$/demos/src/main/java/paintMyClassroom.java" />
         <option value="$PROJECT_DIR$/demos/src/test/java/paintMyClassroomTest.java" />
@@ -469,6 +469,7 @@
         <option value="$PROJECT_DIR$/Essential/src/main/java/L2/Animal/animal.java" />
         <option value="$PROJECT_DIR$/Essential/src/main/java/L2/Animal/Cat.java" />
         <option value="$PROJECT_DIR$/Essential/src/main/java/L2/Main.java" />
+        <option value="$PROJECT_DIR$/Essential/src/main/java/L3/BaseClass.java" />
       </list>
     </option>
   </component>
@@ -543,6 +544,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="Essential" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="L3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
@@ -1309,10 +1319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Essential/src/main/java/BaseClass.java">
+    <entry file="file://$PROJECT_DIR$/Essential/src/main/java/L3/BaseClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        <state relative-caret-position="85">
+          <caret line="5" column="58" lean-forward="false" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
           <folding />
         </state>
       </provider>
